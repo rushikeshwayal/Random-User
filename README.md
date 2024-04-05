@@ -38,3 +38,4 @@ This is a simple web application that generates random user details fetched from
 
 [Rushikesh Wayal](https://github.com/rushikeshwayal)
 
+[Hosting_Link](https://661077c9a1c26a5baba23370--randomusergenerator-rushikeshwayal.netlify.app/)
